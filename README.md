@@ -9,3 +9,4 @@ How to use:
 4. Now put the Channel ID in the textbox and the subscriber count will appear.
 
 Copyright by Abhishek Panwar,the owner of this code. Before using this code you must inform him or else you might get into a legal trouble.
+![Alt text](Capture.jpg?raw=true "Screenshot")
